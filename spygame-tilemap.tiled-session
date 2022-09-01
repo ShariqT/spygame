@@ -1,0 +1,91 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "public/playground.tmj",
+    "expandedProjectPaths": [
+        "public",
+        "."
+    ],
+    "fileStates": {
+        "#Env": {
+            "scaleInEditor": 1
+        },
+        "level1.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 95.33333333333334,
+                "y": 121.99999999999999
+            }
+        },
+        "level1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "public/level1.tmj": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": -182.5,
+                "y": 204
+            }
+        },
+        "public/playground.tmj": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 436,
+                "y": 343.99999999999994
+            }
+        },
+        "public/playground.tmj#Enemy": {
+            "scaleInDock": 1
+        },
+        "public/playground.tmj#Env": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "public/test.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 162.66666666666663,
+                "y": 111.33333333333331
+            }
+        },
+        "public/test.tmx#Environment": {
+            "scaleInDock": 1
+        },
+        "public/test.tmx#Icons": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/shariqtorres/Documents/Github/spygame/public",
+    "last.imagePath": "/Users/shariqtorres/Downloads/PIPOYA FREE RPG Character Sprites 32x32/Enemy",
+    "map.height": 20,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 25,
+    "openFiles": [
+        "public/playground.tmj"
+    ],
+    "project": "spygame-tilemap.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "public/playground.tmj",
+        "public/test.tmx",
+        "level1.tmx",
+        "level1.tsx",
+        "public/level1.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
